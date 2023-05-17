@@ -1,0 +1,252 @@
+[
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 300,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 400,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 500,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 600,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 700,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 800,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 900,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 1000,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 1100,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_green.png",
+        "x": 1200,
+        "y": 125
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 300,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 400,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 500,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 600,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 700,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 800,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 900,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1000,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1100,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1200,
+        "y": 200
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 300,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 400,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 500,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 600,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 700,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 800,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 900,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1000,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1100,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_blue.png",
+        "x": 1200,
+        "y": 275
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 300,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 400,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 500,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 600,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 700,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 800,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 900,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1000,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1100,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1200,
+        "y": 350
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 300,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 400,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 500,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 600,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 700,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 800,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 900,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1000,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1100,
+        "y": 425
+    },
+    {
+        "graphic": "../src/sounds_and_visuals/graphics/space-invaders-characters/enemy_pink.png",
+        "x": 1200,
+        "y": 425
+    }
+]

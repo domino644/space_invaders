@@ -1,0 +1,4 @@
+_MACOSX
+*.rar
+node_modules
+src\sounds_and_visuals\sounds\zipps
